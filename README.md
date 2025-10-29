@@ -208,14 +208,14 @@ jupyter notebook
 ### Model Evaluation Metrics
 ```
 Logistic Regression
-├── Training Accuracy: XX.XX%
-├── Validation Accuracy: XX.XX%
-└── Test F1 Score: X.XXX
+├── Training Accuracy: 88.10%
+├── Validation Accuracy: 88.10%
+└── Test F1 Score: 0.864
 
 Random Forest Classifier
-├── Training Accuracy: XX.XX%
-├── Validation Accuracy: XX.XX%
-└── Test F1 Score: X.XXX
+├── Training Accuracy: 88.0%
+├── Validation Accuracy: 88.0%
+└── Test F1 Score: 0.858
 ```
 
 ### Business Intelligence Queries
@@ -226,33 +226,9 @@ Random Forest Classifier
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit issues or pull requests for:
-- Model performance improvements
-- Additional feature engineering techniques
-- New business intelligence queries
-- Documentation enhancements
-
----
-
 ## 📄 License
 
 This project is available for educational and research purposes.
-
----
-
-## 📧 Contact
-
-For questions or collaboration opportunities, please open an issue in this repository.
-
----
-
-## 🙏 Acknowledgments
-
-- **Lending Club** for providing the comprehensive loan dataset
-- **Apache Spark Community** for the robust big data framework
-- **Kaggle** for hosting and maintaining the dataset
 
 ---
 
@@ -262,6 +238,4 @@ For questions or collaboration opportunities, please open an issue in this repos
 - [PySpark MLlib Guide](https://spark.apache.org/docs/latest/ml-guide.html)
 - [Lending Club Dataset on Kaggle](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
 
----
 
-**Built with ❤️ using Apache Spark and PySpark**
